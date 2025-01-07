@@ -3,3 +3,4 @@ Check out sales
 Survey crowd to determine what quantity and types of pizza to order
 Call or go online to place order
 Wait for order to be completed
+Pick up order and enjoy
